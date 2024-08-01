@@ -22,7 +22,16 @@
 - [오늘 과제가 필요한 이유 생각해보기]
 - 선정이유: 이 과정을 미션 시작 전에 수행하며 오늘 과제로 인해 어떤 걸 학습하고 성장할 수 있을 지 생각하고 좀 더 파이팅있게 미션을 시작할 수 있을 것 같습니다
 - ---
-- 수행 기록
+<details>
+  <summary>수행 기록</summary>
+  
+  Day11  
+  ![오늘의필요성Day11](https://github.com/user-attachments/assets/c7173277-17e3-44b2-960e-3a42c68ee7d7)
+  
+  Day13  
+  ![오늘의필요성Day13](https://github.com/user-attachments/assets/fefb4ddc-2c03-4e13-a92b-767f9b84d8cd)
+
+</details>
 
 ### 📍J104_박미영
 - [ 과제를 진행하기 전에 체크리스트 옆에 우선순위를 세워보기 ]
