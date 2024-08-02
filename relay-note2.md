@@ -3,7 +3,16 @@
 - [미션을 수행하면서 문법에 대해 새로이 알게된 점 기록하기]
 - 선정이유: `java`와 비슷하다는 이유로 부스트캠프에서 `kotlin`을 선택했는데 `java`와 상이하고 다른 문법들이 많았다. 문제 구현에만 집중하느라 정리하지 못했다. 이 기회를 통해 문법을 정리를 쭉 해볼 것이다
 - ---
-수행 기록
+<details>
+  <summary>수행 기록</summary>
+  이번 프로젝트를 진행하면서 사용했던 문법들을 간략하게 정리했습니다.
+  
+  ![image](https://github.com/user-attachments/assets/e419c207-c43a-420f-8cec-9fdc2df08905)
+
+  ![image](https://github.com/user-attachments/assets/75777d43-e84f-4507-a9e6-7ffe1fb4c8c5)
+
+  > 정리 내용 일부
+</details>
 
 ### 📍J220_정다솔
 - [미션을 수행하면서 만난 오류에 대한 원인의 사례 알아보기]
