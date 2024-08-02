@@ -25,7 +25,15 @@
 - [ 다른 사람들의 README 정독 후  코멘트 달기 ]
 - 선정 이유 : 이번 스터디 그룹 회고에서 나왔던 내용인데 마침 릴레이 프로젝트 퀘스트에 있어서 보자마자 선택했습니다!
 - ---
-- 수행 기록
+
+<details>
+  <summary>수행 기록</summary>
+  <br>
+  잊고 있다가 오늘 피어 세션에 해보았습니다~!
+  <img width="900"  src="https://github.com/user-attachments/assets/26dc0043-aaab-4e32-acba-f4b8f389bbbf">
+  <img width="900"  src="https://github.com/user-attachments/assets/73530e6f-b4c2-4d0f-a18f-faef12528906">
+</details>
+
 
 ### 📍J285_황성헌
 - [오늘 과제가 필요한 이유 생각해보기]
