@@ -30,7 +30,14 @@
 
 선정 이유: 평소에 구현에만 신경쓰고 문법이나 학습정리에 소홀했던 것 같았기 때문이다
 
-수행 기록
+<details>
+  <summary>수행 기록</summary>
+[JSON.stringify](https://boatneck-apple-c31.notion.site/JSON-stringify-e40f3a592c7841d0a366696acdfd1ffb?pvs=4)
+  
+기존에 많이 쓰던 함수였지만, 사실 객체를 JSON 문자열로 변환하는 메서드 그 이상 그 이하도 아니였던것 같다.
+  
+근데 이번 미션을 통해 두번째 인자와 세번째 인자에 대해서 추가 공부하게 되었고, 이를 정리하였다.
+</details>
 
 ## 📍J158_오예현
 
