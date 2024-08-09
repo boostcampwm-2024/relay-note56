@@ -80,6 +80,7 @@
 수행 기록
 
 <위대한 동츠비>
+
 <image src="https://github.com/user-attachments/assets/e36aeac7-d5be-4190-9d40-e5f80d3d1a6f" width="50%"/>
 
 
